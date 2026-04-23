@@ -17,42 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I am a Year 4 CS Ph.D. candidate at Beihang University, supervised by [Prof. Hailong Yang](https://thomas-yang.github.io/) and work as a member of [Hipo Group](https://github.com/buaa-hipo). I received my bachelor's degree of computer science and engineering at Beihang University in 2022. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include machine learning system optimizations and high performance computing. Specifically, I focus on accelerating deep learning model training and inference, as well as leveraging AI techniques to optimize traditional HPC workloads, such as stencil computations. I am looking forward to collaborations and research internship opportunities. If you are interested in my work, please feel free to reach out.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉ElasGNN is accepted to PPoPP‘26. 
+- *2025.10*: &nbsp;🎉🎉 The xLLM inference engine, to which I contributed, has released 
+its technical report.
+- *2025.06*: &nbsp;🎉🎉 Smurfs is accepted to SC’25. 
+- *2025.06*: &nbsp;🎉🎉 ESC is accepted to ICPP’25. 
+- *2025.03*: &nbsp;🎉🎉 Plasticine is accepted to ICS’25.
+ - *2024.03*: &nbsp;🎉🎉 AtRec is accepted to TPDS.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[ElasGNN: An Elastic Training Framework for Distributed GNN Training.](https://dl.acm.org/doi/10.1145/3774934.3786440)
+**Siqi Wang**, Hailong Yang, Pengbo Wang, Hongliang Cao, Yufan Xu, Xuezhu Wang, et al.
+PPoPP 2026
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding.](https://dl.acm.org/doi/10.1145/3712285.3759834)
+**Siqi Wang**, Hailong Yang, Xuezhu Wang, Tongxuan Liu, Pengbo Wang, Yufan Xu, et al.
+SC 2025
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Accelerating Complex Stencil Computations with Adaptive Fusion Strategy.](https://dl.acm.org/doi/10.1145/3721145.3725768)
+**Siqi Wang**, Hailong Yang, Pengbo Wang, Shaokang Du, Yufan Xu, Qingxiao Sun, et al.
+ICS 2025
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[ESC: Effective Submanifold Convolution using Tensor Cores.](https://dl.acm.org/doi/10.1145/3754598.3754633)
+Xuezhu Wang, Hailong Yang, Xin You, Yufan Xu, Xiaoyan Liu, **Siqi Wang**, et al.
+ICPP 2025
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+[xLLM Technical Report.](https://arxiv.org/abs/2510.14686)
+Tongxuan Liu, Tao Peng, Peijun Yang, Xiaoyang Zhao, Xiusheng Lu, Weizhe Huang, Zirui Liu, Xiaoyu Chen, Zhiwei Liang, Jun Xiong, Donghe Jin, Minchao Zhang, Jinrong Guo, Yingxu Deng, Xu Zhang, Xianzhe Dong, **Siqi Wang**, et al.
+Arxiv 2025
+
+[RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting](https://arxiv.org/abs/2512.04752)
+**Siqi Wang**, Hailong Yang, Junjie Zhu, Xuezhu Wang, Yufan Xu, Depei Qian.
+Arxiv 2025
+
+
+
+[AtRec: Accelerating recommendation model training on CPUs.](https://ieeexplore.ieee.org/document/10478579/)
+**Siqi Wang**, Tianyu Feng, Hailong Yang, Xin You, Bangduo Chen, Tongxuan Liu, et al.
+TPDS 2024
+
+[Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving.](https://ieeexplore.ieee.org/document/10654386/)
+Xin You, Hailong Yang, **Siqi Wang**, Tao Peng, Chen Ding, Xinyuan Li, et al.
+TC 2024
+
+
+
+
+# 💻 Industry Experience
+- *2025 - present*, xLLM Large Language Model Inference Engine — JD.com.
+- *2025, Agentic Workflow Optimization — SenseTime.
+- *2024 - 2025, Adaptive Speculative Decoding for LLM Inference — SenseTime.
+- *2023 - 2024, Recommendation Model Training Acceleration — Alibaba.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Global runner-up, Intel "Innovation Master Cup" Global AI Geek Challenge — DeepRec CTR Model Performance Optimization.

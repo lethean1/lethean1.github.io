@@ -24,8 +24,8 @@ My research interests include machine learning system optimizations and high per
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉Grape is accepted to SC‘26. 
-- *2025.11*: &nbsp;🎉🎉ElasGNN is accepted to PPoPP‘26. 
+- *2026.07*: &nbsp;🎉🎉 Grape is accepted to SC‘26. 
+- *2025.11*: &nbsp;🎉🎉 ElasGNN is accepted to PPoPP‘26. 
 - *2025.10*: &nbsp;🎉🎉 The xLLM inference engine, to which I contributed, has released 
 its technical report.
 - *2025.06*: &nbsp;🎉🎉 Smurfs is accepted to SC’25. 

@@ -24,6 +24,7 @@ My research interests include machine learning system optimizations and high per
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉Grape is accepted to SC‘26. 
 - *2025.11*: &nbsp;🎉🎉ElasGNN is accepted to PPoPP‘26. 
 - *2025.10*: &nbsp;🎉🎉 The xLLM inference engine, to which I contributed, has released 
 its technical report.
@@ -33,6 +34,10 @@ its technical report.
  - *2024.03*: &nbsp;🎉🎉 AtRec is accepted to TPDS.
 
 # 📝 Publications 
+Efficient Serving for Agentic LLM Workflows via Micro-Task-Level Parallelism.
+**Siqi Wang**, Xuezhu Wang, Hongliang Cao, Ruihao Gong, Qingxiao Sun, Yufan Xu, Huaitao Zhang, Wei Li, Hailong Yang, et al.
+SC 2026
+
 
 [ElasGNN: An Elastic Training Framework for Distributed GNN Training.](https://dl.acm.org/doi/10.1145/3774934.3786440)
 **Siqi Wang**, Hailong Yang, Pengbo Wang, Hongliang Cao, Yufan Xu, Xuezhu Wang, et al.
@@ -74,9 +79,9 @@ TC 2024
 
 # 💻 Industry Experience
 - *2025 - present*, xLLM Large Language Model Inference Engine — JD.com.
-- *2025, Agentic Workflow Optimization — SenseTime.
-- *2024 - 2025, Adaptive Speculative Decoding for LLM Inference — SenseTime.
-- *2023 - 2024, Recommendation Model Training Acceleration — Alibaba.
+- *2025* Agentic Workflow Optimization — SenseTime.
+- *2024 - 2025*, Adaptive Speculative Decoding for LLM Inference — SenseTime.
+- *2023 - 2024*, Recommendation Model Training Acceleration — Alibaba.
 
 # 🎖 Honors and Awards
 - Global runner-up, Intel "Innovation Master Cup" Global AI Geek Challenge — DeepRec CTR Model Performance Optimization.

@@ -85,3 +85,4 @@ TC 2024
 
 # 🎖 Honors and Awards
 - Global runner-up, Intel "Innovation Master Cup" Global AI Geek Challenge — DeepRec CTR Model Performance Optimization.
+- 2026 Huawei Scholarship.

@@ -60,7 +60,7 @@ ICPP 2025 (CCF B)
 Tongxuan Liu, Tao Peng, Peijun Yang, Xiaoyang Zhao, Xiusheng Lu, Weizhe Huang, Zirui Liu, Xiaoyu Chen, Zhiwei Liang, Jun Xiong, Donghe Jin, Minchao Zhang, Jinrong Guo, Yingxu Deng, Xu Zhang, Xianzhe Dong, **Siqi Wang**, et al.
 Arxiv 2025
 
-[RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting](https://arxiv.org/abs/2512.04752)
+[RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting.](https://arxiv.org/abs/2512.04752)
 **Siqi Wang**, Hailong Yang, Junjie Zhu, Xuezhu Wang, Yufan Xu, Depei Qian.
 Arxiv 2025
 

@@ -36,24 +36,24 @@ its technical report.
 # 📝 Publications 
 Efficient Serving for Agentic LLM Workflows via Micro-Task-Level Parallelism.
 **Siqi Wang**, Xuezhu Wang, Hongliang Cao, Ruihao Gong, Qingxiao Sun, Yufan Xu, Huaitao Zhang, Wei Li, Hailong Yang, et al.
-SC 2026
+SC 2026 (CCF A)
 
 
 [ElasGNN: An Elastic Training Framework for Distributed GNN Training.](https://dl.acm.org/doi/10.1145/3774934.3786440)
 **Siqi Wang**, Hailong Yang, Pengbo Wang, Hongliang Cao, Yufan Xu, Xuezhu Wang, et al.
-PPoPP 2026
+PPoPP 2026 (CCF A)
 
 [Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding.](https://dl.acm.org/doi/10.1145/3712285.3759834)
 **Siqi Wang**, Hailong Yang, Xuezhu Wang, Tongxuan Liu, Pengbo Wang, Yufan Xu, et al.
-SC 2025
+SC 2025 (CCF A)
 
 [Accelerating Complex Stencil Computations with Adaptive Fusion Strategy.](https://dl.acm.org/doi/10.1145/3721145.3725768)
 **Siqi Wang**, Hailong Yang, Pengbo Wang, Shaokang Du, Yufan Xu, Qingxiao Sun, et al.
-ICS 2025
+ICS 2025 (CCF B)
 
 [ESC: Effective Submanifold Convolution using Tensor Cores.](https://dl.acm.org/doi/10.1145/3754598.3754633)
 Xuezhu Wang, Hailong Yang, Xin You, Yufan Xu, Xiaoyan Liu, **Siqi Wang**, et al.
-ICPP 2025
+ICPP 2025 (CCF B)
 
 
 [xLLM Technical Report.](https://arxiv.org/abs/2510.14686)
@@ -68,11 +68,11 @@ Arxiv 2025
 
 [AtRec: Accelerating recommendation model training on CPUs.](https://ieeexplore.ieee.org/document/10478579/)
 **Siqi Wang**, Tianyu Feng, Hailong Yang, Xin You, Bangduo Chen, Tongxuan Liu, et al.
-TPDS 2024
+TPDS 2024 (CCF A)
 
 [Exploiting Structured Feature and Runtime Isolation for High-Performant Recommendation Serving.](https://ieeexplore.ieee.org/document/10654386/)
 Xin You, Hailong Yang, **Siqi Wang**, Tao Peng, Chen Ding, Xinyuan Li, et al.
-TC 2024
+TC 2024 (CCF A)
 
 
 
